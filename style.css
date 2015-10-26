@@ -1,0 +1,66 @@
+div {
+		margin: auto; padding: 10px; background-color: #FFFFFF; border-radius: 5px; border: 2px solid black; width: 600px; 
+	}
+    nav {
+		margin: auto; background-color: #FFFFFF; border-radius: 5px; border: 2px solid black; width: 600px; font-family: "Courier New", Courier, monospace;
+	}
+	h3 {font-family: "Courier New", Courier, monospace; }
+	h4 {font-family: "Courier New", Courier, monospace; float: left;}
+	p { font-family: "Courier New", Courier, monospace; font-size: 16px;}
+	a:link { color: #000022;}
+	a:hover { color: #6495ED;}
+	a:visited { color: #4B0082;}
+	#footer {
+		position: relative;
+		height: 15px;
+		background-color: #ffffff;
+		clear: both;
+		text-align: center;
+		color: #000000;
+	}
+	#footer p {
+		font-size: 12px;
+		margin-top: -2px;
+	}
+	#caption {
+		font-size: 14px;
+		text-align: center;
+		font-style: italic;
+	}
+	#date {
+		font-size: 12px;
+		font-style: italic;
+		float: right;
+	}
+	.heading {
+		height: 25px;
+		margin-bottom: 5px;
+		font-size: 20px;  
+        font-family: "Courier New", Courier, monospace;
+	}
+	.header {
+		margin-top: -15px;
+		height: 10px;
+		margin-bottom: 10px; 
+        font-family: "Courier New", Courier, monospace;
+	}
+    
+     .myButton {
+	background-color:#E6B800;
+	border-radius:2px;
+	border:2px solid #000000;
+	color:#ffffff;
+	font-family: "Courier New", Courier, monospace;
+	font-size:14px; font-color: #ffffff;
+	padding:4px 6px;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.myButton:hover {
+	background-color:#ffffff;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
